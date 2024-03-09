@@ -1,0 +1,10 @@
+.imagen{ /*Clases*/
+    height: 400px;
+    width: auto;
+
+}
+
+#album{ /*IDs*/
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
